@@ -50,19 +50,19 @@ One role-based platform for students, instructors, coordinators and admins: cour
 
 `React` `Vite` `Tailwind CSS` `Node.js` `Prisma` `MySQL` `JWT` `Docker`
 
-👉 [View the repository](https://github.com/wezir/YOUR-REPO-NAME)
+👉 [View the repository]([https://github.com/Fuad-Sabseb/UNIVERSITY-LEARNING-INTERNSHIP-PLATFORM])
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wezir&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wezir&layout=compact&theme=default&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wezamanner&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wezamanner&layout=compact&theme=default&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=wezir&theme=default&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=wezamanner&theme=default&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
