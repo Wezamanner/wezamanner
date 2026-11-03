@@ -2,7 +2,7 @@
 
 <p align="center">
   Full-stack developer in training, building practical web products with React, Node.js and MySQL.<br>
-  Based in Addis Ababa, Ethiopia 🇪🇹
+  Based in Jimma, Ethiopia 🇪🇹
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
   <img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,html,css" alt="frontend" />
 </p>
 
-**Backend and Database**
+**Backend and Database**(still learning)
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mysql" alt="backend" />
@@ -38,7 +38,7 @@
 **Tools and DevOps**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="tools" />
 </p>
 
 ---
@@ -70,12 +70,12 @@ One role-based platform for students, instructors, coordinators and admins: cour
 ## 🤝 Let's Connect
 
 <p>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-1d4ed8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-26a5e4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="mailto:wezirmuhammed1184@gmail.com"><img src="https://img.shields.io/badge/Email-1d4ed8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/wezirmuhammed/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://t.me/wezamanner"><img src="https://img.shields.io/badge/Telegram-26a5e4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
 
-<p align="center"><i>Open to internships, collaborations and good conversations about code.</i></p>## Hi there 👋
+<p align="center"><i>Open to internships, collaborations and good conversations about code.</i></p>## 
 
 <!--
 **Wezamanner/wezamanner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
