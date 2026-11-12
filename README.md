@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Wezir 👋</h1>
 
 <p align="center">
-  Full-stack developer in training, building practical web products with React, Node.js and MySQL.<br>
+  Full-stack developer in training at  Radius Training Center | building practical web products with React, Node.js and MySQL.<br>
   Based in Jimma, Ethiopia 🇪🇹
 </p>
 
